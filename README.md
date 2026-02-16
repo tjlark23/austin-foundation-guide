@@ -12,7 +12,7 @@ Lead generation website for foundation repair services in Austin, TX metro area.
 
 ### 1. Buy Domain
 - Go to Cloudflare > Registrar
-- Buy `austinfoundationguy.com`
+- Buy `austinfoundationguide.com`
 
 ### 2. Push to GitHub
 ```bash
@@ -30,7 +30,7 @@ git push origin main
    - Build command: (leave empty)
    - Build output directory: `/` (root)
 4. Deploy
-5. Custom domain: Add `austinfoundationguy.com`
+5. Custom domain: Add `austinfoundationguide.com`
 
 ### 4. GHL Webhook
 1. In GoHighLevel, create a webhook URL for your subaccount
@@ -40,9 +40,9 @@ git push origin main
 
 ### 5. Google Search Console
 1. Go to search.google.com/search-console
-2. Add property: `austinfoundationguy.com`
+2. Add property: `austinfoundationguide.com`
 3. Verify via Cloudflare DNS (TXT record)
-4. Submit sitemap: `https://austinfoundationguy.com/sitemap.xml`
+4. Submit sitemap: `https://austinfoundationguide.com/sitemap.xml`
 
 ## Stats
 - 17 HTML pages
